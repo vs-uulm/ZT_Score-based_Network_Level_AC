@@ -5,10 +5,10 @@
 
 PEP Implementation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PEP
 
-PDP Policy Engine Implementation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PDP_PE
+PDP Policy Engine Implementation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PDP_PE
 
-PDP Trust Algorithms Implementation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PDP_TA
+PDP Trust Algorithms Implementation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PDP_TA
 
-PAP Implementation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PAP
+PAP Implementation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PAP
 
-PIP Implemenetation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PIP
+PIP Implemenetation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PIP
