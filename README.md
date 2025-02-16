@@ -3,7 +3,7 @@
 
 ![image](https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC/raw/main/main.png)
 
-PEP Implementation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PEP
+PEP Implementation: https://github.com/vs-uulm/ZT_Score-based_Network_Level_AC_PEP
 
 PDP Policy Engine Implementation: https://github.com/zintpavowj/ZT_Score-based_Network_Level_AC_PDP_PE
 
